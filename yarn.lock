@@ -668,6 +668,11 @@
   dependencies:
     "function-bind" "^1.1.1"
 
+"hexo-blog-encrypt@^3.1.9":
+  "integrity" "sha512-dzuZiW5mD8t1FOhJXqc+IgV1Tc45YtatJb/w8k4PyT9McQxsROQXsBw+zbDembzuqMnbnkCeT2SapZ/r9AgAcw=="
+  "resolved" "http://10.0.38.253:4873/hexo-blog-encrypt/-/hexo-blog-encrypt-3.1.9.tgz"
+  "version" "3.1.9"
+
 "hexo-cli@^4.3.0":
   "integrity" "sha512-nYe7yJhXT7MwlDEpIAjneMfz0wnWTdIhRv+cVW2OPTw8JtG2X+8Y/sYhPDvQz/ZqjFRZ4qgiKFXN5orFJ/u1vg=="
   "resolved" "http://10.0.38.253:4873/hexo-cli/-/hexo-cli-4.3.1.tgz"
