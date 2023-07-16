@@ -49,6 +49,7 @@ date: 2023-07-11 11:00:00
 ![image-20230711112100552](https://yh-blog-photos.oss-cn-beijing.aliyuncs.com/travel/image-20230711112100552.png)
 
 ![image-20230711112122171](https://yh-blog-photos.oss-cn-beijing.aliyuncs.com/travel/image-20230711112122171.png)
+![](https://yh-blog-photos.oss-cn-beijing.aliyuncs.com/travel/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230714222412.jpg)
 {% endgallery %}
 <!-- endtimeline -->
 {% endtimeline %}
