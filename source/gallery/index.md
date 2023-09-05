@@ -12,7 +12,7 @@ date: 2023-07-10 16:06:56
 {% galleryGroup '人文' '关于扫街的那些人文' '/gallery/humanity' https://images.unsplash.com/photo-1688649720968-9f2d3c81d458?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80 %}
 {% galleryGroup '手机随拍' '手机随拍' '/gallery/wallpaper' https://i.loli.net/2019/11/10/T7Mu8Aod3egmC4Q.png %}
 
-{% galleryGroup 'Mia' 'Mia的随拍碎片' '/gallery/mia' https://images.unsplash.com/photo-1688759973983-fa77fec09bf6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2565&q=80 %}
+<!-- {% galleryGroup 'Mia' 'Mia的随拍碎片' '/gallery/mia' https://images.unsplash.com/photo-1688759973983-fa77fec09bf6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2565&q=80 %} -->
 </div>
 
 
