@@ -6,8 +6,8 @@ date: 2023-07-11 11:00:00
 
 
 <script> 
-    let password = prompt ('需要认证！')
-    if(password === '1206') {
+    let password = prompt ('需要认证！密码1111')
+    if(password === '1111') {
         alert('认证成功！')
         console.log('认证成功！')
     } else {
@@ -17,7 +17,7 @@ date: 2023-07-11 11:00:00
  
 
 {% timeline 2023%}
-<!-- timeline 07-07 🌞晴 🚄天津南 -----> 🎯烟台-->
+<!-- timeline 07-07 🌞晴 🚄 -----> 🎯-->
 {% gallery %}
 ![](https://yh-blog-photos.oss-cn-beijing.aliyuncs.com/travel/image-20230711111027345.png)
 ![](https://yh-blog-photos.oss-cn-beijing.aliyuncs.com/travel/image-20230711111041317.png)
@@ -26,7 +26,7 @@ date: 2023-07-11 11:00:00
 {% endtimeline %}
 
 {% timeline %}
-<!-- timeline 07-08 ⛅多云 🌊烟台-->
+<!-- timeline 07-08 ⛅多云 🌊-->
 {% gallery %}
 ![](https://yh-blog-photos.oss-cn-beijing.aliyuncs.com/travel/image-20230711111304156.png)
 ![](https://yh-blog-photos.oss-cn-beijing.aliyuncs.com/travel/image-20230711111320599.png)
