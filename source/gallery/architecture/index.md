@@ -15,7 +15,7 @@ date: 2023-07-10 16:17:00
 ![](https://yh-blog-photos.oss-cn-beijing.aliyuncs.com/%E5%BB%BA%E7%AD%91/IMG_1616_1.jpg)
 ![](https://yh-blog-photos.oss-cn-beijing.aliyuncs.com/%E5%BB%BA%E7%AD%91/IMG_1616.jpg)
 ![](https://yh-blog-photos.oss-cn-beijing.aliyuncs.com/%E5%BB%BA%E7%AD%91/IMG_1512.jpg)
-![](https://yh-blog-photos.oss-cn-beijing.aliyuncs.com/%E5%BB%BA%E7%AD%91/IMG_1372.jpg)
+
 ![](https://yh-blog-photos.oss-cn-beijing.aliyuncs.com/%E5%BB%BA%E7%AD%91/IMG_0639.png)
 ![](https://yh-blog-photos.oss-cn-beijing.aliyuncs.com/%E5%BB%BA%E7%AD%91/IMG_0612_1.jpg)
 ![](https://yh-blog-photos.oss-cn-beijing.aliyuncs.com/%E5%BB%BA%E7%AD%91/IMG_0533.png)
